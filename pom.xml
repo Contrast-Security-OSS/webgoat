@@ -333,8 +333,8 @@
                             <serviceKey>${env.CONTRAST_MAVEN_SERVICEKEY}</serviceKey>
                             <apiUrl>${env.CONTRAST_MAVEN_TEAMSERVERURL}</apiUrl>
                             <orgUuid>${env.CONTRAST_MAVEN_ORGUUID}</orgUuid>
-                            <appName>gtw</appName>
-                            <serverName>wopr</serverName>
+                            <appName>webboat</appName>
+                            <serverName>battleship</serverName>
                             <serverPath>/Users/garymoore/dev/webgoat-circle/</serverPath>
                             <minSeverity>Note</minSeverity>
                         </configuration>
